@@ -1,4 +1,4 @@
-const socket = io('http://127.0.0.1:3000');
+const socket = io('hhttps://muzammil592.github.io/Chatting-Application/:3000');
 var audio=new Audio('1.mp3')
 
 const form = document.getElementById('send-container');
